@@ -15,7 +15,19 @@
 // import 'package:belajar_dart/Fundamental/functionParameter.dart' as function;
 // import 'package:belajar_dart/Fundamental/variableScope.dart' as variableScope;
 // import 'package:belajar_dart/Fundamental/consFinal.dart' as consFinal;
-import 'package:belajar_dart/Fundamental/nullSafety.dart' as nullSafety;
+// import 'package:belajar_dart/Fundamental/nullSafety.dart' as nullSafety;
+
+// package control flow
+// import 'package:belajar_dart/ControlFlow/ifElse.dart' as ifElse;
+// import 'package:belajar_dart/ControlFlow/forLoop.dart' as forLoop;
+// import 'package:belajar_dart/ControlFlow/whileDoWhile.dart' as whileDoWhile;
+// import 'package:belajar_dart/ControlFlow/breakContinue.dart' as breakContinue;
+// import 'package:belajar_dart/ControlFlow/switchCase.dart' as switchCase;
+
+// package collections
+// import 'package:belajar_dart/Collections/list.dart' as list;
+// import 'package:belajar_dart/Collections/set.dart' as setType;
+import 'package:belajar_dart/Collections/map.dart' as map;
 
 // package challanges
 // import 'package:belajar_dart/Challanges/KonversiSuhu/fahrenheit.dart' as temperature;
@@ -23,5 +35,5 @@ import 'package:belajar_dart/Fundamental/nullSafety.dart' as nullSafety;
 // import 'package:belajar_dart/Challanges/KonversiSuhu/kelvin.dart' as temperature;
 
 void main() {
-  nullSafety.nullSafety();
+  map.map();
 }
