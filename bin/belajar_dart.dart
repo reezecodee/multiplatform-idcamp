@@ -27,7 +27,20 @@
 // package collections
 // import 'package:belajar_dart/Collections/list.dart' as list;
 // import 'package:belajar_dart/Collections/set.dart' as setType;
-import 'package:belajar_dart/Collections/map.dart' as map;
+// import 'package:belajar_dart/Collections/map.dart' as map;
+
+// package OOP
+// import 'package:belajar_dart/OOP/class.dart';
+// import 'package:belajar_dart/OOP/propertiesMethod.dart';
+// import 'package:belajar_dart/OOP/constructor.dart';
+// import 'package:belajar_dart/OOP/cascadeNotation.dart' as cascadeNotation;
+// import 'package:belajar_dart/OOP/inheritance.dart';
+// import 'package:belajar_dart/OOP/abstractClass.dart';
+// import 'package:belajar_dart/OOP/implicitInterface.dart';
+// import 'package:belajar_dart/OOP/enumeratedTypes.dart' as enumerated;
+// import 'package:belajar_dart/OOP/mixins.dart' as mixinTest;
+import 'package:belajar_dart/OOP/extensionMethod.dart' as extensionMethod;
+
 
 // package challanges
 // import 'package:belajar_dart/Challanges/KonversiSuhu/fahrenheit.dart' as temperature;
@@ -35,5 +48,5 @@ import 'package:belajar_dart/Collections/map.dart' as map;
 // import 'package:belajar_dart/Challanges/KonversiSuhu/kelvin.dart' as temperature;
 
 void main() {
-  map.map();
+  extensionMethod.extensionMethod();
 }
