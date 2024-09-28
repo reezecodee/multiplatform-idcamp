@@ -39,7 +39,15 @@
 // import 'package:belajar_dart/OOP/implicitInterface.dart';
 // import 'package:belajar_dart/OOP/enumeratedTypes.dart' as enumerated;
 // import 'package:belajar_dart/OOP/mixins.dart' as mixinTest;
-import 'package:belajar_dart/OOP/extensionMethod.dart' as extensionMethod;
+// import 'package:belajar_dart/OOP/extensionMethod.dart' as extensionMethod;
+
+// package Functional Paradigm
+// import 'package:belajar_dart/FunctionalParadigm/pureFunction.dart' as pureFunction;
+// import 'package:belajar_dart/FunctionalParadigm/anonymousFunction.dart' as anonymousFnc;
+// import 'package:belajar_dart/FunctionalParadigm/higher-orderFunction.dart' as higherOrderFnc;
+// import 'package:belajar_dart/FunctionalParadigm/closures.dart' as closuresFnc;
+
+// package TypeSystems
 
 
 // package challanges
@@ -48,5 +56,5 @@ import 'package:belajar_dart/OOP/extensionMethod.dart' as extensionMethod;
 // import 'package:belajar_dart/Challanges/KonversiSuhu/kelvin.dart' as temperature;
 
 void main() {
-  extensionMethod.extensionMethod();
+  closuresFnc.testClosures();
 }
